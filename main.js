@@ -234,7 +234,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Open WhatsApp with the message
             // Note: Replace the phone number with actual business number
-            const whatsappURL = `https://wa.me/905551234567?text=${whatsappMessage}`;
+            const whatsappURL = `https://wa.me/05449645082?text=${whatsappMessage}`;
             window.open(whatsappURL, '_blank');
 
             // Show success message
