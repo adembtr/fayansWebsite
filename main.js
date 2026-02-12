@@ -1,5 +1,5 @@
 // =========================================
-// SURA SERAMİK - Main JavaScript
+// GGÜNARA SERAMİK - Main JavaScript
 // Professional Tile Craftsman Website
 // =========================================
 
@@ -392,7 +392,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // =========================================
     // CONSOLE LOG FOR DEBUGGING
     // =========================================
-    console.log('SURA SERAMİK website loaded successfully!');
+    console.log('GGÜNARA SERAMİK website loaded successfully!');
     console.log('Developer: Professional Tile Craftsman Website');
     
 });
